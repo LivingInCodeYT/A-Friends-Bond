@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E069B6F8-6F30-CD21-26F2-5CD83BB49654}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Animations/Scripts/MainMenuFunctions.cs">
+    <Files>
+      <File FileName="Assets/Animations/Scripts/JumpSound.cs" Line="12" Column="6" />
+      <File FileName="Assets/Animations/Scripts/InputToMove.cs" Line="11" Column="11" />
+      <File FileName="Assets/Animations/Scripts/MainMenuFunctions.cs" Line="14" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fb90ef3b-b2c1-446d-8231-4d217039d41a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
